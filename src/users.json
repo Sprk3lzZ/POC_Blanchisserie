@@ -1,0 +1,176 @@
+[
+  {
+    "id": 1,
+    "name": "Charles",
+    "lastName": "Dupont",
+    "group": "La Blanchisserie d'Oé",
+    "picture": "Charles.jpg",
+    "ateliers": {
+      "1": {
+        "name": "LAVAGE",
+        "description": "- Remplir la machine avec la bonne catégorie de linge. \n\r - Lancer un cycle adapté. \n\r - Identifier les écarts RABC.",
+        "instructions": "Remplir le tambour puis lancer le cycle adapté ",
+        "video": "https://www.youtube.com/watch?v=HLoEXPrNd4Q",
+        "question": "J'arrive à lancer les programmes seul."
+      },
+      "2": {
+        "name": "SECHAGE",
+        "description": " - Lancer un cycle.",
+        "instructions": "Remplir le tambour puis lancer le cycle adapté",
+        "video": "https://www.youtube.com/watch?v=evABG-cB6zA"
+      },
+      "3": {
+        "name": "REPASSAGE",
+        "description": "- Placer le linge sur la calandre.\n\r - Placer le linge dans l'espace départ.",
+        "instructions": "Placer le linge et appuyer sur le bouton vert.",
+        "video": "https://www.youtube.com/watch?v=cMRlrJ1Oq6w",
+        "question": "Je sais bien placer  le linge seul dans la calandre."
+      }
+    }
+  },
+  {
+    "id": 2,
+    "name": "Antoine",
+    "lastName": "Daniel",
+    "group": "La Blanchisserie d'Oé",
+    "picture": "Antoine.jpg",
+    "ateliers": {
+      "1": {
+        "name": "LAVAGE",
+        "description": "- Trier le linge dans le bon bac.\n\r - Préparer les bac à côté des machines.",
+        "instructions": "Linge en coton dans le bac vert, \n\rAutre linge dans le bac bleu",
+        "video": "https://www.youtube.com/watch?v=HLoEXPrNd4Q",
+        "question": "Je sais trier le linge dans les bons bacs."
+      },
+      "2": {
+        "name": "SECHAGE",
+        "description": " - Lancer un cycle.",
+        "instructions": "Remplir le tambour puis lancer le cycle adapté",
+        "video": "https://www.youtube.com/watch?v=evABG-cB6zA"
+      },
+      "3": {
+        "name": "REPASSAGE",
+        "description": "- Placer le linge sur la calandre.\n\r - Placer le linge dans l'espace départ.",
+        "instructions": "Placer le linge et appuyer sur le bouton vert",
+        "video": "https://www.youtube.com/watch?v=cMRlrJ1Oq6w",
+        "question": "  J'ai eu besoin d'aide pour placer le linge."
+      }
+    }
+  },
+  {
+    "id": 3,
+    "name": "Elisabeth",
+    "lastName": "Pluchart",
+    "group": "La Blanchisserie d'Oé",
+    "picture": "Elisabeth.jpg",
+    "ateliers": {
+      "1": {
+        "name": "LAVAGE",
+        "description": "Loream Ipsum",
+        "instructions": "Chiktata Hawaw",
+        "video": "https://www.youtube.com/watch?v=cMRlrJ1Oq6w",
+        "question": "Je sais faire fonctionner la machine à laver tout seul."
+      },
+      "2": {
+        "name": "SECHAGE",
+        "description": "Loream Ipsum",
+        "instructions": "Chiktata Hawaw",
+        "video": "https://www.youtube.com/watch?v=IqM0yHckPuQ"
+      },
+      "3": {
+        "name": "REPASSAGE",
+        "description": "Loream Ipsum",
+        "instructions": "Chiktata Hawaw",
+        "video": "https://www.youtube.com/watch?v=egNXxiDosQg",
+        "question": "Je sais faire fonctionner la machine à laver tout seul."
+      }
+    }
+  },
+  {
+    "id": 4,
+    "name": "Stephane",
+    "lastName": "Delannoy",
+    "group": "La Blanchisserie d'Oé",
+    "picture": "Stephane.jpg",
+    "ateliers": {
+      "1": {
+        "name": "LAVAGE",
+        "description": "Loream Ipsum",
+        "instructions": "Chiktata Hawaw",
+        "video": "https://www.youtube.com/watch?v=cMRlrJ1Oq6w",
+        "question": "Je sais faire fonctionner la machine à laver tout seul."
+      },
+      "2": {
+        "name": "SECHAGE",
+        "description": "Loream Ipsum",
+        "instructions": "Chiktata Hawaw",
+        "video": "https://www.youtube.com/watch?v=IqM0yHckPuQ"
+      },
+      "3": {
+        "name": "REPASSAGE",
+        "description": "Loream Ipsum",
+        "instructions": "Chiktata Hawaw",
+        "video": "https://www.youtube.com/watch?v=egNXxiDosQg",
+        "question": "Je sais faire fonctionner la machine à laver tout seul."
+      }
+    }
+  },
+  {
+    "id": 5,
+    "name": "Yacine",
+    "lastName": "Sidani",
+    "group": "La Blanchisserie d'Oé",
+    "picture": "Yacine.jpg",
+    "ateliers": {
+      "1": {
+        "name": "LAVAGE",
+        "description": "Loream Ipsum",
+        "instructions": "Chiktata Hawaw",
+        "video": "https://www.youtube.com/watch?v=cMRlrJ1Oq6w",
+        "question": "Je sais faire fonctionner la machine à laver tout seul."
+      },
+      "2": {
+        "name": "SECHAGE",
+        "description": "Loream Ipsum",
+        "instructions": "Chiktata Hawaw",
+        "video": "https://www.youtube.com/watch?v=IqM0yHckPuQ"
+      },
+      "3": {
+        "name": "REPASSAGE",
+        "description": "Loream Ipsum",
+        "instructions": "Chiktata Hawaw",
+        "video": "https://www.youtube.com/watch?v=egNXxiDosQg",
+        "question": "Je sais faire fonctionner la machine à laver tout seul."
+      }
+    }
+  },
+  {
+    "id": 6,
+    "name": "Samir",
+    "lastName": "Slama",
+    "group": "La Blanchisserie d'Oé",
+    "picture": "Samir.jpg",
+    "ateliers": {
+      "1": {
+        "name": "LAVAGE",
+        "description": "Loream Ipsum",
+        "instructions": "Chiktata Hawaw",
+        "video": "https://www.youtube.com/watch?v=cMRlrJ1Oq6w",
+        "question": "Je sais faire fonctionner la machine à laver tout seul."
+      },
+      "2": {
+        "name": "SECHAGE",
+        "description": "Loream Ipsum",
+        "instructions": "Chiktata Hawaw",
+        "video": "https://www.youtube.com/watch?v=IqM0yHckPuQ"
+      },
+      "3": {
+        "name": "REPASSAGE",
+        "description": "Loream Ipsum",
+        "instructions": "Chiktata Hawaw",
+        "video": "https://www.youtube.com/watch?v=egNXxiDosQg",
+        "question": "Je sais faire fonctionner la machine à laver tout seul."
+      }
+    }
+  }
+]
